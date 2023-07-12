@@ -31,17 +31,14 @@ var firebaseConfig = {
 };
 ```
 
-Start the application:
+## Start the application:
 
 Open the index.html file in a web browser or set up a local server to serve the files.
 
-Begin using Study Tracker:
+## Begin using Study Tracker:
 
 You can now start using Study Tracker to track your study sessions and monitor your progress.
 
-Contributing
+## Contributing
+
 Contributions to Study Tracker are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue in the repository.
-
-```
-
-```
