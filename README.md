@@ -27,8 +27,9 @@ var firebaseConfig = {
   projectId: "YOUR_PROJECT_ID",
   storageBucket: "YOUR_STORAGE_BUCKET",
   messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  appId: "YOUR_APP_ID",
 };
+```
 
 Start the application:
 
@@ -40,5 +41,7 @@ You can now start using Study Tracker to track your study sessions and monitor y
 
 Contributing
 Contributions to Study Tracker are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request or open an issue in the repository.
+
+```
 
 ```
